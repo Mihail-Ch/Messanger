@@ -139,9 +139,9 @@
 		038FE9B72B6BC2430057DB73 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				038FE98B2B6BC1AA0057DB73 /* ConversationsViewController.swift */,
 				038FE9BC2B6BF9D70057DB73 /* LoginViewController.swift */,
 				038FE9BE2B6BF9ED0057DB73 /* RegisterViewController.swift */,
+				038FE98B2B6BC1AA0057DB73 /* ConversationsViewController.swift */,
 				038FE9C02B6BFA250057DB73 /* PhotoViewerViewController.swift */,
 				038FE9C22B6BFA430057DB73 /* VideoPlayerViewController.swift */,
 				038FE9C42B6BFA6B0057DB73 /* NewConversationViewController.swift */,
